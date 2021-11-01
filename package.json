@@ -25,7 +25,7 @@
     "react-icons": "^4.3.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "^13.2.1",
+    "@commitlint/cli": "^14.1.0",
     "@commitlint/config-conventional": "^13.2.0",
     "@testing-library/react": "^12.1.2",
     "@types/jest": "^27.0.2",
